@@ -9,3 +9,5 @@ bGroup number(4),
 bStep number(4),
 bIndent number(4)
 );
+
+create sequence mvc_board_seq;
